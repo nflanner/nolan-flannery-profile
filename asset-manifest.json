@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/nolan-flannery-profile/static/css/main.ba23a506.css",
+    "main.js": "/nolan-flannery-profile/static/js/main.edee0c00.js",
+    "static/media/movieRouletteApp.JPG": "/nolan-flannery-profile/static/media/movieRouletteApp.17b90bdc4c337725df04.JPG",
+    "static/media/seattle.jpg": "/nolan-flannery-profile/static/media/seattle.3162e126388bdccf02f2.jpg",
+    "static/media/recipeSaver.JPG": "/nolan-flannery-profile/static/media/recipeSaver.e095d826538863330ea7.JPG",
+    "static/media/weatherDashboard.JPG": "/nolan-flannery-profile/static/media/weatherDashboard.9a306a2641ead39a3e3d.JPG",
+    "static/media/nolanResume.pdf": "/nolan-flannery-profile/static/media/nolanResume.fdf1c422dc16f8cd64d7.pdf",
+    "static/media/Nolan.jpg": "/nolan-flannery-profile/static/media/Nolan.0b04a1390fc39e029b52.jpg",
+    "index.html": "/nolan-flannery-profile/index.html",
+    "main.ba23a506.css.map": "/nolan-flannery-profile/static/css/main.ba23a506.css.map",
+    "main.edee0c00.js.map": "/nolan-flannery-profile/static/js/main.edee0c00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba23a506.css",
+    "static/js/main.edee0c00.js"
+  ]
+}
