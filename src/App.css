@@ -5,3 +5,26 @@
 .row {
     justify-content: space-evenly;
 }
+
+.first-app {
+    padding: 10px;
+    text-align: -webkit-center;
+}
+
+.main-card {
+    width: 55%;
+}
+
+.subsequent-app {
+    padding: 10px;
+    text-align: -webkit-center;
+}
+
+.subsequent-card {
+    width: 85%;
+    height: 100% !important;
+}
+
+.card-body .subsequent {
+    height: 10px;
+}
