@@ -2,6 +2,11 @@
     text-align: center;
 }
 
+.footer {
+    color: '#000000';
+    opacity: '0.2';
+}
+
 .row {
     justify-content: space-evenly;
 }
@@ -28,3 +33,41 @@
 .card-body .subsequent {
     height: 10px;
 }
+
+.form-group {
+    padding: 10px;
+}
+
+.background {
+    /* The image used */
+    background-image: './Assets/Images/seattle.jpg';
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .links {
+    height: 40px;
+    padding: 5px;
+    opacity: 1 !important;
+  }
+
+  #links {
+    height: 50%;
+    text-align: -webkit-center;
+  }
+
+  .skills,
+  .experience,
+  .education {
+    padding: 5px;
+  }
+
+  h3 {
+    padding: 20px;
+  }
