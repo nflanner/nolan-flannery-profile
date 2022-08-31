@@ -9,6 +9,7 @@ This application has been deployed on GitHub Pages using the [Create React App D
 ## Links
 
 [Github](https://github.com/nflanner/nolan-flannery-profile)
+
 [Deployed](https://nflanner.github.io/nolan-flannery-profile/)
 
 ## User Story
